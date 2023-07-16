@@ -1,0 +1,18 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.head{
+    margin:0px;
+    padding:0px;
+    display:flex;
+    justify-content: left;
+    align-items: center;
+    background:linear-gradient(to left,purple,rgb(208, 144, 208));
+    height:100px;
+}
+.troll{
+    width:50px;
+    height:50px;
+    padding:5px;
+}
